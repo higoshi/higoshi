@@ -1,7 +1,7 @@
 # Profile
 
 ## Basic
-- Name: 樋越（Higoe / Higoshi）
+- Name: 樋越（Higoshi）
 - Role: Software Engineer / Tech Lead / CTO Candidate
 - Focus: プロダクト開発、技術戦略、組織横断のIT設計
 
